@@ -1,2 +1,6 @@
 This is the Master
-Added Hotfix
+Added Develop
+Added Feature
+Updated Feature
+Merged Feature and Develop
+Merged Develop and Main
